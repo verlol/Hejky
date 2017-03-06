@@ -1,2 +1,3 @@
 # Hejky
 Pro NAMI
+Tento repozitáø jsem si založila na popud pana Martínka v úkolu è.8.
